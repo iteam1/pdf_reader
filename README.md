@@ -2,6 +2,14 @@
 
 handle pdf
 
+# pipeline
+
+```
+pdf -> extracted data -> prompt -> LLM -> dataset
+                            |
+                         purposes
+```
+
 
 # references
 
